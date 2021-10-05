@@ -1,0 +1,19 @@
+{
+  "name": "conceptually",
+  "version": "0.1.0",
+  "description": "\"Visualizations and Animations Creator and Editor\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Team-Nuqlear/Conceptually.git"
+  },
+  "author": "Team-Nuqlear",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Team-Nuqlear/Conceptually/issues"
+  },
+  "homepage": "https://github.com/Team-Nuqlear/Conceptually#readme"
+}
